@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SprintM6</string>
+    <string name="email_recipient">info@novaera.cl</string>
+    <string name="subject_template">Consulta %1$s - Id: %2$d</string>
+    <string name="message_template">Hola, me gustaría obtener más información del móvil %1$s de código %2$d. Quedo atento.</string>
+    <string name="details_description">Descripción</string>
+    <string name="details_last_price">Precio anterior</string>
+    <string name="credit_yes">Acepta Crédito</string>
+    <string name="credit_no">Sólo pago en efectivo</string>
+    <string name="details_not_available">No</string>
+</resources>
